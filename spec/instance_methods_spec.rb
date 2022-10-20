@@ -36,7 +36,11 @@ describe 'Dog' do
 end
 
 describe 'Person' do
-  it 'is defined' do
+  it 'is define
+
+
+
+  d' do
     expect(defined?(Person)).to be_truthy
     expect(Person).to be_a(Class)
   end
